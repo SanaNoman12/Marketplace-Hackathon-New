@@ -31,7 +31,7 @@ export default function Footer() {
             <div className='flex flex-wrap lg:flex-nowrap lg:flex-row justify-center 2xl:px-[135px] 2xl:justify-between gap-20 lg:gap-10 mx-[20px] md:mx-0 lg:mx-[50px] mt-10 px-10 md:px-0'>
                 <div className='w-[300px]'>
                     <h1 className='font-bold font-sans text-white'>About Us.</h1>
-                    <p className=' text-white mt-8'>orporate clients and leisure travelers hasbeen relying on Groundlink for dependablesafe, and professional chauffeured carservice in major cities across World.</p>
+                    <p className=' text-white mt-8'>corporate clients and leisure travelers has been relying on Groundlink for dependablesafe, and professional chauffeured carservice in major cities across World.</p>
                     <div className='flex mt-6 gap-3'>
                         <Image src={Watch} alt="image" />
                         <div className='text-white'>
@@ -90,7 +90,7 @@ export default function Footer() {
             <div className='bg-[#4F4F4F] p-5 mt-7'>
                 <div className='lg:mx-[90px]'>
                     <div className='flex md:justify-between flex-col md:flex-row items-center'>
-                        <p className='text-white'> Copyright © 2022 by Misbah. All Rights Reserved. </p>
+                        <p className='text-white'> Copyright © 2022 by SanaNoman. All Rights Reserved. </p>
                         <div className='flex justify-between md:justify-center items-center gap-5 mt-3 md:mt-0'>
                             <div className="w-10 h-10 flex justify-center items-center bg-white rounded">
                                 <Image src={FbIcon} alt="Facebook" />
